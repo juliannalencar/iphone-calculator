@@ -2,6 +2,10 @@
 
 A simple, functional calculator implemented with HTML, CSS, and JavaScript.
 
+<p align="center">
+  <img alt="Iphone Calculator" src=".github/preview.png" width="25%">
+</p>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
